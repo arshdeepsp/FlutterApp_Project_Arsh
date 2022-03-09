@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "274254270244",
+    "firebase_url": "https://travel-app-bb878.firebaseio.com",
+    "project_id": "travel-app-bb878",
+    "storage_bucket": "travel-app-bb878.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274254270244:android:e47fd7b1ffef6e3f516db1",
+        "android_client_info": {
+          "package_name": "co.tripd.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274254270244-8d7qilashu7ajodc6r3ah5acn47lcf1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.tripd.app",
+            "certificate_hash": "9afba903fc02b2a61b7b6c33ae52323aed85625a"
+          }
+        },
+        {
+          "client_id": "274254270244-ulujcoidgruh18thp55jdhsqvbmpt4h3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjg9TH835iFY29YkxLF8jknOGvsxtDG9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274254270244-ulujcoidgruh18thp55jdhsqvbmpt4h3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "274254270244-mckd2qpv5o5fqus2k6216cfva5ivdhgn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.tripd.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274254270244:android:2dcd3c74310d1bde516db1",
+        "android_client_info": {
+          "package_name": "com.tripd.travelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274254270244-jbq7g0p13teq8h12qe7o2aimfs95t0qp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tripd.travelapp",
+            "certificate_hash": "fb1d7048cc3344e1c909b7e6c48644da86f61be8"
+          }
+        },
+        {
+          "client_id": "274254270244-ulujcoidgruh18thp55jdhsqvbmpt4h3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjg9TH835iFY29YkxLF8jknOGvsxtDG9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274254270244-ulujcoidgruh18thp55jdhsqvbmpt4h3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "274254270244-mckd2qpv5o5fqus2k6216cfva5ivdhgn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.tripd.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

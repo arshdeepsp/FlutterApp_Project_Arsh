@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+co/tripd/app/BuildConfig.java
+ co.tripd.app.BuildConfig

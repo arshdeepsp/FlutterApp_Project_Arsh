@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">274254270244-ulujcoidgruh18thp55jdhsqvbmpt4h3.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://travel-app-bb878.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">274254270244</string>
+    <string name="google_api_key" translatable="false">AIzaSyDjg9TH835iFY29YkxLF8jknOGvsxtDG9s</string>
+    <string name="google_app_id" translatable="false">1:274254270244:android:e47fd7b1ffef6e3f516db1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDjg9TH835iFY29YkxLF8jknOGvsxtDG9s</string>
+    <string name="google_storage_bucket" translatable="false">travel-app-bb878.appspot.com</string>
+    <string name="project_id" translatable="false">travel-app-bb878</string>
+</resources>
